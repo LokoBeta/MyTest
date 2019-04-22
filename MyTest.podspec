@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MyTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MyTest.'
+  s.summary          = 'is use to make video,  is use to make video.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+i had add description  is use to make video  is use to make video  is use to make video  is use to make video is use to make video is use to make video is use to make video
                        DESC
 
-  s.homepage         = 'https://github.com/lokobeta/MyTest'
+  s.homepage         = 'https://github.com/LokoBeta/MyTest.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lokobeta' => 'luolinhao@polyv.net' }
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MyTest/Classes/**/*'
+  s.source_files = 'MyTest/Classes/'
   
   # s.resource_bundles = {
   #   'MyTest' => ['MyTest/Assets/*.png']
